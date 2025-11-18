@@ -9,7 +9,7 @@ Simple RAG demo using a YouTube transcript, LangChain, FAISS and OpenAI embeddin
 ## Quickstart
 1. Install dependencies (see the notebook cell):
    - youtube-transcript-api, langchain-community, langchain-openai, faiss-cpu, tiktoken, python-dotenv
-2. Set your OpenAI API key in the environment (do NOT hardcode it in the notebook):
+2. Set your OpenAI API key in the environment :
    - export OPENAI_API_KEY="sk-..."
 3. Open and run the notebook: [rag_using_langchain.ipynb](rag_using_langchain.ipynb)
 
